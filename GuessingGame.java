@@ -37,7 +37,7 @@ public class GuessingGame
       }
       while(isRunning);
       System.out.printf("\n\n========================================");
-      System.out.printf("\nThanks for playing, Juan Dela Cruz!");
+      System.out.printf("\nThanks for playing, %s!", name);
       System.out.printf("\nSee you next time!");
       System.out.printf("\n========================================\n");
    }
